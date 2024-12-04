@@ -1,0 +1,3 @@
+kami telah menyelesaikan praktikum kami
+kami mengalami kendala dalam pengerjaan soalnya dimana salah dalam menginput variable nya
+berhasil memperbaiki error
